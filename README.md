@@ -5,9 +5,9 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-Baseline%20Established-brightgreen)
 ![Data Source](https://img.shields.io/badge/Data-Kaggle-00AEEF?logo=kaggle&logoColor=white)
 ![Classes](https://img.shields.io/badge/Classes-4%20Labels-yellow)
-
----
 PRODIGY_DS__-04
+---
+
 **Author:** Adeyeye Blessing Temidayo  
 **CIN:** PIT/DEC25/10676  
 
